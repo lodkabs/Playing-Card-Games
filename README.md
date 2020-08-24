@@ -10,3 +10,8 @@ There's also a `Dealer` subclass of the `Player` class.
 Functions defined for the playing cards include `shuffle_deck`, `deal_card` and `print_hand`.
 
 Check out the `blackjack.py` for an example on how to use the `playingcards` library.
+
+## To-do list
+1. Allow for multiple decks in one game.
+1. Allow custom decks; whether that means having a lessened playing card deck, or a deck with not-so-typical playing cards.
+1. Additional card back designs to pick from (or potentially a feature to allow a user to include their own card back design)
